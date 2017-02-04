@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="TextViewId">Conversion:</string>
+    <string name="toC">Fahrenheit to Celsius</string>
+    <string name="toF">Celsius to Fahrenheit</string>
+    <string name="convert">Convert</string>
+    <string name="enterValue">Enter the Value</string>
+    <string name="equalSign">=</string>
+    <string name="result">Result</string>
+</resources>
